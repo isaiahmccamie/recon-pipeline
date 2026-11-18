@@ -1,0 +1,10 @@
+loan,borrower,diff,reason,route,owner,minutes
+SV-1004500,James Bennett,360.0,We keyed the wrong amount (digits swapped),INTERNAL,Cash Operations team - correct the posting,45
+SV-1004537,Maria Rivera,18.0,Bank keyed the wrong amount (digits swapped),BANK,Custodial bank ops - email with backup,120
+SV-1004574,Robert Thompson,899.82,Interest not applied,FIX,Recon team posts the entry (client sign-off first),15
+SV-1004611,Aisha Okafor,662.67,Escrow not applied,FIX,Recon team posts the entry (client sign-off first),15
+SV-1004648,Michael Sullivan,500.0,Extra principal (curtailment) not applied,FIX,Recon team posts the entry (client sign-off first),15
+SV-1004685,Jennifer Nguyen,-2847.33,"Pending settlement (timing, will clear)",WAIT,Nobody - recheck on tomorrow's statement,2
+SV-1004722,David Carter,-3265.7,"On our books, never reached the bank",BANK,Custodial bank ops - email with backup,120
+SV-1004759,Linda Brooks,2791.44,Cash with no loan number. Suggested match: Linda Brooks (confirm before posting),FIX,Recon team posts the entry (client sign-off first),15
+SV-1004796,Carlos Delgado,2131.79,Duplicate credit at the bank,BANK,Custodial bank ops - email with backup,120
